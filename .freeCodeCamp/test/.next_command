@@ -89,3 +89,4 @@ cp students.csv ctudents_test.csv
 rm ctudents_test.csv
 cp students.csv students_test.csv
 ./insert_data.sh
+./insert_data.sh
