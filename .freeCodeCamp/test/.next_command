@@ -1,0 +1,2 @@
+cat kitty_ipsum_2.txt -w > wc >> kitty_info.txt
+wc -w < kitty_ipsum_2.txt >> kitty_info.txt
